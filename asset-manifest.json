@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.ad764133.css",
-    "main.js": "/static/js/main.fefb40df.js",
+    "main.js": "/static/js/main.804b347f.js",
     "static/media/grape.png": "/static/media/grape.7775215aaf7a7469b4d1.png",
     "static/media/Avenir-Book.eot": "/static/media/Avenir-Book.3d7b4a1fe5cc13611566.eot",
     "static/media/Avenir-Book.ttf": "/static/media/Avenir-Book.45721c895eddd5961b80.ttf",
@@ -9,10 +9,10 @@
     "static/media/Avenir-Book.woff2": "/static/media/Avenir-Book.0cf1f858862912d14eb1.woff2",
     "index.html": "/index.html",
     "main.ad764133.css.map": "/static/css/main.ad764133.css.map",
-    "main.fefb40df.js.map": "/static/js/main.fefb40df.js.map"
+    "main.804b347f.js.map": "/static/js/main.804b347f.js.map"
   },
   "entrypoints": [
     "static/css/main.ad764133.css",
-    "static/js/main.fefb40df.js"
+    "static/js/main.804b347f.js"
   ]
 }
