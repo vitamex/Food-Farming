@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.ad764133.css",
-    "main.js": "/static/js/main.804b347f.js",
-    "static/media/grape.png": "/static/media/grape.7775215aaf7a7469b4d1.png",
-    "static/media/Avenir-Book.eot": "/static/media/Avenir-Book.3d7b4a1fe5cc13611566.eot",
-    "static/media/Avenir-Book.ttf": "/static/media/Avenir-Book.45721c895eddd5961b80.ttf",
-    "static/media/Avenir-Book.woff": "/static/media/Avenir-Book.2e000a81efbdecb05ca6.woff",
-    "static/media/Avenir-Book.woff2": "/static/media/Avenir-Book.0cf1f858862912d14eb1.woff2",
-    "index.html": "/index.html",
-    "main.ad764133.css.map": "/static/css/main.ad764133.css.map",
-    "main.804b347f.js.map": "/static/js/main.804b347f.js.map"
+    "main.css": "/Food-Farming/static/css/main.e9c317a0.css",
+    "main.js": "/Food-Farming/static/js/main.91ac24d4.js",
+    "static/media/grape.png": "/Food-Farming/static/media/grape.7775215aaf7a7469b4d1.png",
+    "static/media/Avenir-Book.eot": "/Food-Farming/static/media/Avenir-Book.3d7b4a1fe5cc13611566.eot",
+    "static/media/Avenir-Book.ttf": "/Food-Farming/static/media/Avenir-Book.45721c895eddd5961b80.ttf",
+    "static/media/Avenir-Book.woff": "/Food-Farming/static/media/Avenir-Book.2e000a81efbdecb05ca6.woff",
+    "static/media/Avenir-Book.woff2": "/Food-Farming/static/media/Avenir-Book.0cf1f858862912d14eb1.woff2",
+    "index.html": "/Food-Farming/index.html",
+    "main.e9c317a0.css.map": "/Food-Farming/static/css/main.e9c317a0.css.map",
+    "main.91ac24d4.js.map": "/Food-Farming/static/js/main.91ac24d4.js.map"
   },
   "entrypoints": [
-    "static/css/main.ad764133.css",
-    "static/js/main.804b347f.js"
+    "static/css/main.e9c317a0.css",
+    "static/js/main.91ac24d4.js"
   ]
 }
