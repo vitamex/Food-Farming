@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/Food-Farming/static/css/main.e9c317a0.css",
-    "main.js": "/Food-Farming/static/js/main.91ac24d4.js",
+    "main.css": "/Food-Farming/static/css/main.ba341948.css",
+    "main.js": "/Food-Farming/static/js/main.e6a5e466.js",
     "static/media/grape.png": "/Food-Farming/static/media/grape.7775215aaf7a7469b4d1.png",
     "static/media/Avenir-Book.eot": "/Food-Farming/static/media/Avenir-Book.3d7b4a1fe5cc13611566.eot",
     "static/media/Avenir-Book.ttf": "/Food-Farming/static/media/Avenir-Book.45721c895eddd5961b80.ttf",
     "static/media/Avenir-Book.woff": "/Food-Farming/static/media/Avenir-Book.2e000a81efbdecb05ca6.woff",
     "static/media/Avenir-Book.woff2": "/Food-Farming/static/media/Avenir-Book.0cf1f858862912d14eb1.woff2",
     "index.html": "/Food-Farming/index.html",
-    "main.e9c317a0.css.map": "/Food-Farming/static/css/main.e9c317a0.css.map",
-    "main.91ac24d4.js.map": "/Food-Farming/static/js/main.91ac24d4.js.map"
+    "main.ba341948.css.map": "/Food-Farming/static/css/main.ba341948.css.map",
+    "main.e6a5e466.js.map": "/Food-Farming/static/js/main.e6a5e466.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9c317a0.css",
-    "static/js/main.91ac24d4.js"
+    "static/css/main.ba341948.css",
+    "static/js/main.e6a5e466.js"
   ]
 }
